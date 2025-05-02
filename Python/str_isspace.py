@@ -10,3 +10,6 @@ for i, line in enumerate(lines):
         print("Line {} is empty.".format(i))
     else:
         print("Line {} has content: '{}'".format(i, line))
+
+
+
