@@ -15,6 +15,7 @@ print("Number of subjects:", len(grades))
 
 # Checking if the list has more than 3 items
 if len(numbers) > 3:
+    
     print("The list has more than 3 items.")
 
 # Display all subjects if dictionary is not empty

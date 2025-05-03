@@ -6,6 +6,7 @@ grades = [88, 92, 79]
 
 # Print header
 print("Student Name: {}".format(student))
+
 print("Subjects and Grades:")
 
 # Loop through subjects and grades
