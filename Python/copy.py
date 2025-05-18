@@ -13,3 +13,4 @@ copied_scores.remove(min(copied_scores))
 # Now, print both lists to compare
 print("Original scores:", original_scores)
 print("Copied scores after changes:", copied_scores)
+
